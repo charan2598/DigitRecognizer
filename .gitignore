@@ -1,0 +1,8 @@
+# Ignore pycache directories
+__pycache__
+
+# Ignore data folder
+data/*.zip
+
+# Ignore Sample submission file.
+data/sample_submission.csv
